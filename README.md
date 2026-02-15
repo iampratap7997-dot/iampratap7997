@@ -18,9 +18,9 @@ Recently, I contributed to Apache DolphinScheduler, where my pull request passed
 ## 🧠 TECH STACK
 
 ### Languages
-- Java
-- SQL
-- JavaScript (basic)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Core Concepts
 - Object-Oriented Programming (OOP)
@@ -65,6 +65,9 @@ Utility program to calculate CGPA based on grades and credits.
 - Improving problem-solving and system understanding
 
 ---
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🤝 LET’S CONNECT
 
@@ -74,3 +77,4 @@ LinkedIn: https://www.linkedin.com/in/divyansh-pratap-singh-6a7a26391
 ---
 
 ⭐ Always open to learning, collaboration, and meaningful contributions.
+
